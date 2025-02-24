@@ -1,0 +1,1 @@
+This repository contains a simple Dapp that adds two numbers. The Dapp has a bug that causes it to fail when the inputs are strings instead of integers. The solution to this bug is to convert the inputs to integers before adding them together.
